@@ -32,7 +32,6 @@
   }
 
 
-  /* Media Queries for mobile responsiveness */
 @media (max-width: 768px) {
   .grid-container {
     position: relative;
@@ -89,8 +88,7 @@
     width: 100%;
     margin-left: -10em;
     top: 15em;
-   /* overflow-y: auto;
-    overflow-x: auto;*/
+   
   }
   .grid-item {
     background-color: rgba(255, 255, 255, 0.8);
@@ -99,24 +97,9 @@
     font-size: 30px;
     text-align: center;
   
-  }*/
+  }
   
-/* .freshfoodnamep{
-    position: relative;
-    margin-bottom: -1em;
- }
- .freshfoodpricepricep{
-   position: relative;
-   margin-top: -1em;
- }
- .freshfoodshopaddressp{
-    position: relative;
-    margin-top: -2em;
- }
- .freshfoodshopphonep{
-   position: relative;
-   margin-top: -2em;
- }  */
+
   .freshfood-image{
     width: 100px;
     height: 100px;

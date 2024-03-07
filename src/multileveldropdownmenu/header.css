@@ -1,4 +1,4 @@
-/* Default styles for the button */
+
 .mainsellonfindam {
     text-align: center;
     background-color: blueviolet;
@@ -31,37 +31,7 @@
     position: relative;
   }
  
-  /* Media query for mobile devices */
- /* @media (max-width: 768px) {
-    .mainsellonfindam {
-      text-align: center;
-      background-color: blueviolet;
-      left: 5em;
-      width: 10em;
-      position:fixed;
-      height: 5em;
-      font-size: 10px; 
-      border-radius: 3em;
-      top: 5em;
-    } 
-    .sellonfindam{
-      color: white;
-      text-decoration: none;
-      top: 2em;
-      position: relative;  
-      font-size: 10px;  
 
-   }
-   
-   .cart-icon {
-    color: blueviolet;
-    text-decoration: none;
-    font-size: 40px;
-    left: 10em;
-    top: -3.8em;
-    position: fixed;
-  }
-  } */
 
 
   @media screen and (max-width: 768px) {
@@ -110,28 +80,7 @@
     
   }
 
-  /*@media (min-width: 768px) and (max-width: 1024px){
-    .mainsellonfindam {
-      text-align: center;
-      background-color: blueviolet;
-      margin-left: 18em;
-      width: 10em;
-      position:fixed;
-      height: 5em;
-      font-size: 10px; 
-      border-radius: 3em;
-      top: 5em;
-    } 
-    .sellonfindam{
-      color: white;
-      text-decoration: none;
-      top: 2em;
-      position: relative;  
-      font-size: 10px;  
 
-   }
-   
-} */
 
 @media (max-width: 480px) {
   .storesnavbar{

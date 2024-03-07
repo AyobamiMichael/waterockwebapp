@@ -1,5 +1,4 @@
 
-/* NAVBAR*/
 .editmain{
   display: flex;
   flex-direction: column;
@@ -29,7 +28,7 @@
   font-size: 16px;
 }
 
-/*EDIT FORM*/
+
 .editcontainer{
   display: flex;
   justify-content: center;
@@ -53,23 +52,12 @@
    
 }
 
-/* Mobile responsiveness */
-/*@media (max-width: 768px) {
-  .editnavbar ul {
-    flex-direction: column;
-  }
-
-  .editnavbar li {
-    margin-bottom: 10px;
-  }
-}
-*/
 
 
 
-  /* Media queries for responsiveness */
+
   @media (max-width: 480px) {
-    /* Adjust styles for smaller screens */
+ 
     .editnavbar ul {
       flex-direction: column;
     }

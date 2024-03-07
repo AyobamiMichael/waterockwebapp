@@ -3,14 +3,14 @@
     bottom: -4em;
     display: grid;
     grid-template-columns: auto auto auto;
-   /* background-color: white; */
+   
     padding: 10px;
     width: 60em;
     left: 10em;
   }
   .grid-item {
     background-color: rgba(255, 255, 255, 0.8);
-   /* border: 1px solid rgba(245, 236, 236, 0);*/
+
     padding: 20px;
     font-size: 30px;
     text-align: center;

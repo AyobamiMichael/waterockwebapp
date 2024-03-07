@@ -27,15 +27,14 @@
     padding: 0;
 }
  
-/* Default Design */
+
 .gfg-div {
  
-    /* To make all elements center */
     display: flex;
     justify-content: center;
     align-items: center;
  
-    /* Default Styling */
+  
     margin: 20px auto;
     padding: 30px;
     font-size: 30px;
@@ -46,8 +45,7 @@
 }
  
 
- 
-/* For Tablet View */
+
 @media screen and (max-width: 768px)
      {
    
@@ -60,7 +58,7 @@
     }
 }
  
-/* For Mobile Portrait View */
+
 @media screen and (max-width: 480px)
      {
     

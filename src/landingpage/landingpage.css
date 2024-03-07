@@ -38,7 +38,7 @@
 
 
  
-/* For Tablet View */
+
 @media screen and (max-width: 768px)
    {
 
@@ -65,7 +65,7 @@
 }
 
  
-/* For Mobile Portrait View */
+
 @media screen and (max-width: 480px)
     and (orientation: portrait) {
         .searchbarfordrugs{

@@ -1,5 +1,5 @@
 .shop-container {
-    display: none; /* Hide by default */
+    display: none; 
   }
   
   .category-card {
@@ -15,7 +15,7 @@
     cursor: pointer;
   }
   
-  /* Media Queries for mobile responsiveness */
+  
   @media (max-width: 768px) {
     .shop-container {
       display: flex;

@@ -1,6 +1,4 @@
-/* Add your custom styles here */
 
-/* Center the form */
 .form-container {
     display: flex;
     justify-content: center;
@@ -8,7 +6,7 @@
     height: 100vh;
   }
   
-  /* Style form elements */
+  
   .form-group {
     margin-bottom: 15px;
   }
